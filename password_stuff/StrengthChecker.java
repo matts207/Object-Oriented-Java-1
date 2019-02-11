@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.ArrayList;
 
 /**
- * Checks to see if a password fits the minimum requirements
+ * Checks to see if a password fits a minimum set of requirements
  * @author Matts
  */
 public class StrengthChecker {
@@ -23,16 +23,15 @@ public class StrengthChecker {
     
     
     /**
-     * Sets the list of required special characters
-     * in required.
-     * @param args 
+     * Sets a list of required special characters.
+     * @param specialChars 
      */
-    public void setRequired(String[] args) {
-        required.addAll(Arrays.asList(args));
+    public void setRequired(String[] specialChars) {
+        required.addAll(Arrays.asList(specialChars));
     }
     
     /**
-     * Sets the minimum and maximum length of the password
+     * Sets the minimum and maximum acceptable length of a password
      * @param min
      * @param max 
      */
@@ -64,7 +63,7 @@ public class StrengthChecker {
     
     
     /**
-     * Returns a string 
+     * Returns a string containing any errors 
      * @return 
      */
     public String getErrors(){
