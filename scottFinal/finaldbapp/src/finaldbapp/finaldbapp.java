@@ -34,7 +34,7 @@ import javafx.scene.control.ChoiceBox;
 
 /**
  *
- * @author dupont
+ * @author dupont/scott
  */
 //public class JavaFXDB {
 public class finaldbapp extends Application {
