@@ -8,8 +8,10 @@
 
 4. The java file should now be able to run error-free.  
 
-5. Good luck.
+5. Good luck.  Should look like this.  
 
+  
+![alt text](https://github.com/matts207/Object-Oriented-Java-1/blob/master/scottFinal/Capture.JPG)
 
 
 Matt Scott  
