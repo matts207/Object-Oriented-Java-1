@@ -1,5 +1,5 @@
-#Final Project
-###CIT-230
+# Final Project  
+### CIT-130
 1. If not already installed, install Python 3 and Pip
  (Pip is more than likely already included in your Python installation)
 
