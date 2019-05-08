@@ -1,6 +1,6 @@
 # Final Project  
 ### CIT-130
-1. If not already installed, install xampp and get use it's apache and mySQL servers are started.
+1. If not already installed, install xampp and make sure it's apache and mySQL servers are started.
 
 2. On the local mySQL page, run 'createdb.sql'.
 
